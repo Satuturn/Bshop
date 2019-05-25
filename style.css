@@ -14,7 +14,12 @@ body {
     background-image: url(bg.jpg);
     background-size: cover;
 }
-
+/* 整體頁面 */
+.main {
+    width: 80%;
+    margin: 0 auto;
+}
+/* 導覽列 */
 .nav {
     padding: 60px 30px;
 }
