@@ -69,6 +69,7 @@ body {
     margin-top: 30px;
     text-decoration: none;
     border: 1px solid white;
+    text-shadow:none;
 }
 .content hr {
     width: 350px;
@@ -79,4 +80,5 @@ body {
 .content a:hover {
     background-color: rgba(212, 147, 94, 0.746);
     color: black;
+    
 }
